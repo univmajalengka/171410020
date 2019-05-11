@@ -1,0 +1,23 @@
+/*style*/
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: #eaeaea;
+	color: #333333;
+}
+
+.container {
+	width: 1200px;
+	margin: auto;
+	background-color: white;
+}
+
+.header {
+	padding: 20px;
+	text-align: center;
+}
+
+.header {
+	padding: 20px;
+	text-align: center;
+}
+
